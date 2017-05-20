@@ -24,7 +24,11 @@
   "homepage": "https://github.com/saschamonteiro/exercise-tracker#readme",
   "dependencies": {
     "body-parser": "^1.17.2",
+    "cors": "^2.8.3",
     "express": "^4.15.3",
-    "mongodb": "^2.2.26"
+    "express-validator": "^3.2.0",
+    "moment": "^2.18.1",
+    "mongodb": "^2.2.26",
+    "mongoose": "^4.10.0"
   }
 }
