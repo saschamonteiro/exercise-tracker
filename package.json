@@ -1,0 +1,30 @@
+{
+  "name": "exercise-tracker",
+  "version": "1.0.0",
+  "description": "FCC Exercise Tracker Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sascha Monteiro",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/saschamonteiro/exercise-tracker.git"
+  },
+  "keywords": [
+    "fcc",
+    "freecodecamp",
+    "exercise",
+    "tracker"
+  ],
+  "bugs": {
+    "url": "https://github.com/saschamonteiro/exercise-tracker/issues"
+  },
+  "homepage": "https://github.com/saschamonteiro/exercise-tracker#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongodb": "^2.2.26"
+  }
+}
